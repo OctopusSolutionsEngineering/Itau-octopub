@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/octopussolutionsengineering/Itau-octopub.git
+    repoURL: https://github.com/octopussolutionsengineering/wrg-octopub.git
     targetRevision: HEAD
     path: manifests/homologation
   destination:
